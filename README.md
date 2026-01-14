@@ -68,33 +68,6 @@ Based on the analysis, the company should:
 - Strengthen onboarding and early-stage support for new customers.
 - Improve service quality and competitive positioning to reduce churn driven by competitors and poor customer experience.
 
-📂 Project Structure
-telco-customer-churn-analysis/
-│
-├── README.md                     # Project overview & documentation
-├── LICENSE                       # License file
-│
-├── data/
-│   ├── telco_customers_churn.csv     # Original dataset
-│   └── telco_customers_churn_cleaned.csv  # Cleaned & prepared dataset
-│
-├── notebooks/
-│   └── customers_churn_analysis.ipynb   # Data prep & feature engineering
-│
-├── sql/
-│   └── customers_churn_sql_queries.sql  # PostgreSQL queries (Q1–Q12)
-│
-├── dashboard/
-│   └── customers_churn.pbix          # Power BI dashboard
-│
-├── reports/
-│   ├── Business Problem Document.pdf
-│   └── Telco Customers Data Analysis.pdf
-│
-└── presentation/
-    └── Telco-Customer-Churn-Analysis.pptx
-
-
 🚀 Tools & Technologies
 
 - Python (pandas, numpy)

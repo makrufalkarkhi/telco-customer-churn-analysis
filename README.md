@@ -77,6 +77,5 @@ Based on the analysis, the company should:
 - Power BI
 
 📌 Conclusion
-This project demonstrates how customer data can be transformed into actionable insights through a structured analytics pipeline. By combining Python for data preparation, SQL for analysis, and Power BI for visualization, the company gains a clear, data-driven understanding of customer churn and the key drivers behind it.
 
 This project demonstrates how customer data can be transformed into actionable insights through a structured analytics pipeline. By combining Python for data preparation, SQL for analysis, and Power BI for visualization, the company gains a clear, data-driven understanding of customer churn and the key drivers behind it.
